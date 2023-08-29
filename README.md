@@ -4,7 +4,7 @@ Whatsup is a WhatsApp clone that allows users to send text, image, and audio mes
 
 ## Live Demo
 
-[View Live Demo](https://whatsup-kmaar.vercel.app/)
+[Whatsup](https://whatsup-kmaar.vercel.app/)
 
 ## Tech Stack
 
